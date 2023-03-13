@@ -12,5 +12,6 @@
 | 7 | [Vehicle Purchase](https://exercism.org/tracks/go/exercises/vehicle-purchase)   | Create a simple program to purchase a vehicle.|
 | 8 | [Party Robot](https://exercism.org/tracks/go/exercises/party-robot)   | Using Go's String format packages to solve a simple challenge.|
 | 9 | [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)   | Using Go's Slices to solve a simple cards challenge.|
+| 10 | [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)   | Using Go's Switch statements to solve a simple Blackjack challenge.|
 
 
