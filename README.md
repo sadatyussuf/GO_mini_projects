@@ -13,5 +13,6 @@
 | 8 | [Party Robot](https://exercism.org/tracks/go/exercises/party-robot)   | Using Go's String format packages to solve a simple challenge.|
 | 9 | [Card Tricks](https://exercism.org/tracks/go/exercises/card-tricks)   | Using Go's Slices to solve a simple cards challenge.|
 | 10 | [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)   | Using Go's Switch statements to solve a simple Blackjack challenge.|
+| 11 | [Need For Speed](https://exercism.org/tracks/go/exercises/need-for-speed)   | Using Go's Struct  to solve a Need For Speed challenge.|
 
 
