@@ -15,6 +15,7 @@
 | 10 | [Blackjack](https://exercism.org/tracks/go/exercises/blackjack)   | Using Go's Switch statements to solve a simple Blackjack challenge.|
 | 11 | [Need For Speed](https://exercism.org/tracks/go/exercises/need-for-speed)   | Using Go's Struct  to solve a Need For Speed challenge.|
 | 12 | [Animal Magic](https://exercism.org/tracks/go/exercises/animal-magic)   | Create an Animal Magic  game with Go's Random library.|
-| 13 | [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)   | Write a prograam to Digitalize the bird counts for the past weeks as a Bird Watcher.|
+| 13 | [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)   | Write a program to Digitalize the bird counts for the past weeks as a Bird Watcher.|
+| 14 | [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)   | Write a program to calculate the interest , interest rate,annual balance and more of a savings account.|
 
 
