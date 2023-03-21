@@ -18,5 +18,6 @@
 | 13 | [Bird Watcher](https://exercism.org/tracks/go/exercises/bird-watcher)   | Write a program to Digitalize the bird counts for the past weeks as a Bird Watcher.|
 | 14 | [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)   | Write a program to calculate the interest , interest rate,annual balance and more of a savings account.|
 | 15 | [Lasagna Master](https://exercism.org/tracks/go/exercises/lasagna-master)   | Write some  code related to preparing and cooking your brilliant lasagna from your favorite cookbook.|
+| 16 | [Gross Store](https://exercism.org/tracks/go/exercises/gross-store)   | Learning to manipulate maps in Go.|
 
 
