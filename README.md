@@ -19,5 +19,6 @@
 | 14 | [Interest is Interesting](https://exercism.org/tracks/go/exercises/interest-is-interesting)   | Write a program to calculate the interest , interest rate,annual balance and more of a savings account.|
 | 15 | [Lasagna Master](https://exercism.org/tracks/go/exercises/lasagna-master)   | Write some  code related to preparing and cooking your brilliant lasagna from your favorite cookbook.|
 | 16 | [Gross Store](https://exercism.org/tracks/go/exercises/gross-store)   | Learning to manipulate maps in Go.|
+| 17 | [Booking up for Beauty](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)   | Working on an appointment scheduler with Go's Time module. |
 
 
