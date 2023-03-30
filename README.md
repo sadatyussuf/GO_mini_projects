@@ -22,5 +22,6 @@
 | 17 | [Booking up for Beauty](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)   | Working on an appointment scheduler with Go's Time module. |
 | 18 | [Election Day](https://exercism.org/tracks/go/exercises/election-day)   |Utilizing Go Pointers to write a program to calculate the votes of an Election. |
 | 19 | [Chessboard](https://exercism.org/tracks/go/exercises/chessboard)   | Working with nested iterables by counting the squares on a chessboard. |
+| 20 | [Logs Logs Logs](https://exercism.org/tracks/go/exercises/logs-logs-logs)   | You have been tasked with creating a log library using Go's Strings and Runes |
 
 
